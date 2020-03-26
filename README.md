@@ -60,10 +60,10 @@ Para clonar e executar essa aplicação você precisa do [Git](https://git-scm.c
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/andersonsts/react-rocketshoes
+$ git clone https://github.com/andersonsts/be-the-hero-react
 
 # Entre no repositorio
-$ cd react-rocketshoes
+$ cd be-the-hero-react
 
 # Instale as dependências
 $ yarn install
