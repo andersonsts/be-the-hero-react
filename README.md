@@ -36,7 +36,7 @@
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido no [Bootcamp GoStack - Rocketseat](https://rocketseat.com.br/bootcamp), com as seguintes tecnologias:
+Este projeto foi desenvolvido na Semana Omnistack 11, com as seguintes tecnologias:
 
 -  [ReactJS](https://reactjs.org/)
 -  [React Router Dom](https://github.com/ReactTraining/react-router)
@@ -46,24 +46,18 @@ Este projeto foi desenvolvido no [Bootcamp GoStack - Rocketseat](https://rockets
 -  [VS Code][vc] 
 
 ## :bookmark_tabs: Requisitos
-Antes de executar a aplicação, insira em seu terminal o comando abaixo para iniciar
-a api utilizando [json-server](https://github.com/typicode/json-server).
-
-```bash
-# Executa a api na porta 3333
-$ json-server server.json -p 3333 -w 
-
-```
+Antes de executar a aplicação, você precisa executar a seguinte API.
+[API Be THe Hero](https://github.com/andersonsts/be-the-hero-nodejs)
 
 ## :information_source: Executar
 Para clonar e executar essa aplicação você precisa do [Git](https://git-scm.com), [Node.js v10.16][nodejs] ou superior + [Yarn v1.13][yarn] ou superior instalado em sua máquina. Em seu terminal de comando, execute:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/andersonsts/react-rocketshoes
+$ git clone https://github.com/andersonsts/be-the-hero-react
 
 # Entre no repositorio
-$ cd react-rocketshoes
+$ cd be-the-hero-react
 
 # Instale as dependências
 $ yarn install
