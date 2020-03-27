@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  :gift_heart: Escolha um caso e ajude uma ONG
+   :gift_heart: Escolha um caso e ajude uma ONG
 </h4>
 
 <p align="center">
